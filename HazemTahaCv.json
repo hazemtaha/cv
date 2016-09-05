@@ -72,6 +72,42 @@
         "Bootstrap",
         "HTML"
       ]
+    },
+    {
+      "Project": "Real State Website",
+      "Technologies": [
+        "Django(Python)",
+        "HTML",
+        "Bootstrap",
+        "Jquery"
+      ]
+    },
+    {
+      "Project": "Fourm System",
+      "Technologies": [
+        "Zend Framework (PHP)",
+        "HTML",
+        "Jquery",
+        "Bootstrap"
+      ]
+    },
+    {
+      "Project": "Chat Application",
+      "Technologies": [
+        "Java SE",
+        "Swing",
+        "Netbeans"
+      ]
+    },
+    {
+      "Project": "Cafe Management System",
+      "Technologies": [
+        "PHP(Native)",
+        "HTML",
+        "CSS",
+        "Bootstrap",
+        "Javascript"
+      ]
     }
   ],
   "EXTRA-CURRICULUM-ACTIVITIES": "Android Development Participant at Tree Student Activity in Cairo University - Feb 2015 - May 2015",
