@@ -1,0 +1,87 @@
+{
+  "Name": "Hazem Taha Mohamed Ali",
+  "CONTACT": {
+    "Address": "24 Ali Abd Elnaby St. Faisal, Giza",
+    "Email": "hazemt.93@gmail.com",
+    "Github": "github.com/hazemtaha",
+    "Mobile": "01142253337"
+  },
+  "OBJECTIVE": "I'm seeking a career in the field of software development as my first goal is to learn new technologies and aquire new skills",
+  "EDUCATION": [
+    "9-Month Diploma - November 2015 — June 2016 - Information Technology Institution (ITI), Open Source Application Development Track, Intake 36 - List of courses : http://goo.gl/VStKIK",
+    "Bachelor of Management Information System, English Department - 2011 — 2015 - Faculty of Management Information System, Modern Academy - Grade: Good"
+  ],
+  "WORK-EXPERIENCE": [
+    {
+      "Company": "Link Development",
+      "Position": "Solutions Developer",
+      "Period": "July 2016 — Present",
+      "Description": "Developing an enterprise level web applications using Drupal 7 and 8"
+    }
+  ],
+  "SKILLS-SUMMARY": {
+    "Technical": [
+      "Very good understanding of Object Oriented Programming and design",
+      "Knowledge of Python, Ruby, PHP, JavaSE and Javascript programming languages",
+      "Knowledge of web frameworks like Ruby On Rails, Zend 1, Express",
+      "Knowledge of Javascript libraries like Jquery and AngularJs",
+      "Knowledge of PHP CMS Drupal 7 and 8",
+      "Understanding of RESTful webservices and social media APIs",
+      "Very good understanding of Database design and experience with MySql",
+      "Experience deploying web applications to Openshift and Heroku",
+      "Knowledge of HTML5, CSS3, Bootstrap, XML, JSON",
+      "Very good understanding of version control and GIT",
+      "Familiar with Linux environment and command line"
+    ],
+    "Language": [
+      "Arabic - Native",
+      "English - Fluent"
+    ],
+    "Personal": [
+      "Passionate and eager to learn",
+      "Fast Learner",
+      "Team Player",
+      "Team Management",
+      "Flexible and adaptable",
+      "Ability to work under stress",
+      "Self Motivated"
+    ]
+  },
+  "PROJECTS": [
+    {
+      "Project": "Botzy ( Side Project: A facebook chat bot )",
+      "Technologies": [
+        "Ruby",
+        "Facebook Send Api",
+        "Wit.ai"
+      ]
+    },
+    {
+      "Project": "Indoor Mapping ( ITI Graduation Project )",
+      "Technologies": [
+        "Ruby on Rails(Ruby)",
+        "AngularJs",
+        "Ionic"
+      ]
+    },
+    {
+      "Project": "Yalla Notlob (Ordering Website)",
+      "Technologies": [
+        "Ruby On Rails(Ruby)",
+        "Jquery",
+        "Bootstrap",
+        "HTML"
+      ]
+    }
+  ],
+  "EXTRA-CURRICULUM-ACTIVITIES": "Android Development Participant at Tree Student Activity in Cairo University - Feb 2015 - May 2015",
+  "INTERESTS": [
+    "Writing and Singing",
+    "Reading",
+    "Listening to music"
+  ],
+  "PERSONAL-INFORMATION": {
+    "Military-status": "Exempted"
+  },
+  "REFERENCES": "References available upon request."
+}
